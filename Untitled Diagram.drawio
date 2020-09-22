@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T20:25:48.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="lQiIMAE0CuCOIwRSlesr" compressed="false" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T20:27:30.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="wGZSt0wlp1I_WPRw4DkR" compressed="false" version="13.7.4" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1185" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="IPJvzJiGPJ3sAe5zfskU-47" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Button Demo&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="430" y="745" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IPJvzJiGPJ3sAe5zfskU-50" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Nidec HMI DEMO BLOCK DIGRAM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="IPJvzJiGPJ3sAe5zfskU-50" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;NIDEC HMI DEMO&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="878" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IPJvzJiGPJ3sAe5zfskU-66" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;DEMO&lt;br&gt;&amp;nbsp;BOX&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
