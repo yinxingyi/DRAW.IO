@@ -1,9 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T20:04:30.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="21.6.9" etag="wfCZA4cwiHFkQLJFE8HL" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T20:13:41.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vF6xX5345BZTotJV21PH" version="21.6.9" type="github">
   <diagram name="Page-1" id="46GSSyf7v3dMhYQGoFF-">
-    <mxGraphModel>
+    <mxGraphModel dx="1562" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-1" value="Pod With S1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-3" value="Puffing machine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHEuFtCuEar7pPSGLAqz-4" target="LHEuFtCuEar7pPSGLAqz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-4" value="X10 Test Bed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341.25" y="440" width="87.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.413;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LHEuFtCuEar7pPSGLAqz-5" target="LHEuFtCuEar7pPSGLAqz-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-5" value="Arduino Leo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHEuFtCuEar7pPSGLAqz-6" target="LHEuFtCuEar7pPSGLAqz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-6" value="INA219 Current Sensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LHEuFtCuEar7pPSGLAqz-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="390" as="sourcePoint" />
+            <mxPoint x="515" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="465" y="390" />
+              <mxPoint x="465" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LHEuFtCuEar7pPSGLAqz-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466" y="450" as="sourcePoint" />
+            <mxPoint x="516" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-14" value="Voltage &lt;br&gt;over S1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="415" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-15" value="Current&lt;br&gt;over S1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="530" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-16" value="Current&lt;br&gt;measure for S1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="490" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-17" value="Power" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-18" value="PC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LHEuFtCuEar7pPSGLAqz-20" value="Voltage and Current to calculate &lt;br&gt;S1 resistance in real time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="350" width="190" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
